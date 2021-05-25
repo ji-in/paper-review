@@ -24,3 +24,6 @@
 
 1. [FSA-Net] Yang, T.Y., Chen, Y.T., Lin, Y.Y., and Cnuang, Y.Y., FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation From a Single Image, Proc. of CVPR 2019, pp. 1087-1096, 2019. / [논문](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_FSA-Net_Learning_Fine-Grained_Structure_Aggregation_for_Head_Pose_Estimation_From_CVPR_2019_paper.html) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/FSA-Net.pdf)
 
+## Super Resolution
+
+1. [VDSR] Kim, J., Lee, J.K., and Lee, K.M., Accurate Image Super-Resolution Using Very Deep Convolutional Networks, Proc. of CVPR 2016, pp. 1646-1654, 2016. / [논문](https://openaccess.thecvf.com/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html) / [논문 리뷰]()
