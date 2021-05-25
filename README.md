@@ -26,4 +26,5 @@
 
 ## Super Resolution
 
-1. [VDSR] Kim, J., Lee, J.K., and Lee, K.M., Accurate Image Super-Resolution Using Very Deep Convolutional Networks, Proc. of CVPR 2016, pp. 1646-1654, 2016. / [논문](https://openaccess.thecvf.com/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html) / [논문 리뷰]()
+1. [VDSR] Kim, J., Lee, J.K., and Lee, K.M., Accurate Image Super-Resolution Using Very Deep Convolutional Networks, Proc. of CVPR 2016, pp. 1646-1654, 2016. / [논문](https://openaccess.thecvf.com/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/VDSR.pdf)
+
