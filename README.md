@@ -15,7 +15,7 @@
 
 1. [StyleGAN] Karras, T., Laine, S., and Aila, T., A Style-Based Generator Architecture for Generative Adversarial Networks, Proc. of CVPR 2019, pp. 4401-4410, 2019. / [논문](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/StyleGAN.pdf)
 2. [PGGAN] Karras, T., Aila, T., Laine, S., and Lehtinen, J., Progressive Growing of GANs for Improved Quality, Stability, and Variation, Proc. of arXiv preprint arXiv 2017, pp. 1710-10196, 2017. / [논문](https://arxiv.org/abs/1710.10196) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/PGGAN.pdf) / [발표 대본](https://github.com/ji-in/paper-review/blob/main/PGGAN_script.pdf)
-3. [Explaining in Style] Lang, O., Gandelsman, Y., Yarom, M., Wald, Y., Elidan, G., Hassidim, A., Freeman, W. T., Isola, P., Globerson, A., Irani, M., and Mosseri, I., Explaining in Style: Training a GAN to explain a classifier in StyleSpace, Proc. of ICCV 2021, pp. (페이지 아직 안나옴), 2021. / [논문](https://arxiv.org/abs/2104.13369) / [논문 리뷰]()
+3. [Explaining in Style] Lang, O., Gandelsman, Y., Yarom, M., Wald, Y., Elidan, G., Hassidim, A., Freeman, W. T., Isola, P., Globerson, A., Irani, M., and Mosseri, I., Explaining in Style: Training a GAN to explain a classifier in StyleSpace, Proc. of ICCV 2021, pp. (페이지 아직 안나옴), 2021. / [논문](https://arxiv.org/abs/2104.13369) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/Explaining_in_Style.pdf)
 
 ## Text to Image
 
