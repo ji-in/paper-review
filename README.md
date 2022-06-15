@@ -11,15 +11,15 @@
 ## GAN
 
 1. [StyleGAN] Karras, T., Laine, S., and Aila, T., A Style-Based Generator Architecture for Generative Adversarial Networks, in Proc. of CVPR 2019, pp. 4401-4410, 2019. / [논문](https://arxiv.org/abs/1812.04948) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/StyleGAN.pdf)  
-2. [PGGAN] Karras, T., Aila, T., Laine, S., and Lehtinen, J., Progressive Growing of GANs for Improved Quality, Stability, and Variation, Proc. of arXiv preprint arXiv 2017, pp. 1710-10196, 2017. / [논문](https://arxiv.org/abs/1710.10196) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/PGGAN.pdf) / [발표 대본](https://github.com/ji-in/paper-review/blob/main/PGGAN_script.pdf)  
+2. [PGGAN] Karras, T., Aila, T., Laine, S., and Lehtinen, J., Progressive Growing of GANs for Improved Quality, Stability, and Variation, arXiv:1710.10196, 2017. / [논문](https://arxiv.org/abs/1710.10196) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/PGGAN.pdf) / [발표 대본](https://github.com/ji-in/paper-review/blob/main/PGGAN_script.pdf)  
 3. [Explaining in Style] Lang, O., Gandelsman, Y., Yarom, M., Wald, Y., Elidan, G., Hassidim, A., Freeman, W. T., Isola, P., Globerson, A., Irani, M., and Mosseri, I., Explaining in Style: Training a GAN to explain a classifier in StyleSpace, Proc. of ICCV 2021, pp. 693-702, 2021. / [논문](https://arxiv.org/abs/2104.13369) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/Explaining_in_Style.pdf)
 4. [SPADE] Park T., Liu, M. Y., Wang, T. C., and Zhu, J. Y., Semantic Image Synthesis with Spatially-Aaptive Normalization, Proc. of CVPR 2019, pp. 2337-2346, 2019. / [논문](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_Semantic_Image_Synthesis_With_Spatially-Adaptive_Normalization_CVPR_2019_paper.html) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/SPADE.pdf)
 
 ## Text to Image Generation
 
 1. [TTF-HD] Wang, T., Zhang, T., and Lovell, B., Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement, Proc. of WACV 2021, pp. 3380-3388, 2021. / [논문](https://openaccess.thecvf.com/content/WACV2021/html/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.html) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/TTF-HD.pdf)
-2. [DALL-E] Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., and Sutskever, I., Zero-Shot Text-to-Image Generation, Proc. of ICML 2021, pp. 8821-8831, 2021. / [논문](http://proceedings.mlr.press/v139/ramesh21a.html?ref=https://githubhelp.com) / [논문 리뷰]()
-3. [DALL-E2] Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., and Chen, M., Hierarchical Text-Conditional Image Generation with CLIP Latents, arXiv:2204.06125, 2022.  / [논문](https://arxiv.org/abs/2204.06125) / [논문 리뷰]()
+2. [DALL-E] Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., and Sutskever, I., Zero-Shot Text-to-Image Generation, Proc. of ICML 2021, pp. 8821-8831, 2021. / [논문](http://proceedings.mlr.press/v139/ramesh21a.html?ref=https://githubhelp.com) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/DALLE.pdf)
+3. [DALL-E2] Ramesh, A., Dhariwal, P., Nichol, A., Chu, C., and Chen, M., Hierarchical Text-Conditional Image Generation with CLIP Latents, arXiv:2204.06125, 2022.  / [논문](https://arxiv.org/abs/2204.06125) / [논문 리뷰](https://github.com/ji-in/paper-review/blob/main/DALLE2.pdf)
 
 ## Head pose estimating
 
